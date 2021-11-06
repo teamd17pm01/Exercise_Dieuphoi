@@ -1,0 +1,6 @@
+/home/hung-deks/Projects/Exercise_DieuPhoi/Exercise_DieuPhoi/bin/Debug/Exercise_DieuPhoi.exe
+/home/hung-deks/Projects/Exercise_DieuPhoi/Exercise_DieuPhoi/bin/Debug/Exercise_DieuPhoi.pdb
+/home/hung-deks/Projects/Exercise_DieuPhoi/Exercise_DieuPhoi/obj/x86/Debug/Exercise_DieuPhoi.csprojAssemblyReference.cache
+/home/hung-deks/Projects/Exercise_DieuPhoi/Exercise_DieuPhoi/obj/x86/Debug/Exercise_DieuPhoi.csproj.CoreCompileInputs.cache
+/home/hung-deks/Projects/Exercise_DieuPhoi/Exercise_DieuPhoi/obj/x86/Debug/Exercise_DieuPhoi.exe
+/home/hung-deks/Projects/Exercise_DieuPhoi/Exercise_DieuPhoi/obj/x86/Debug/Exercise_DieuPhoi.pdb

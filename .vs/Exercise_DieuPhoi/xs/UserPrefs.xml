@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{3580CEE5-8A4A-48E1-B946-3B0A159EE6EF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exercise__DieuPhoi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise_DieuPhoi" expanded="True">
+            <Node name="Exercise_DieuPhoi" expanded="True">
+              <Node name="FIFO.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
